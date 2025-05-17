@@ -1,10 +1,9 @@
 ## Hi, hello, hi
-I'm a dev in development, or a dev in dev as I like to say.
-
-Mostly interested in BackEnd. Currently learning Express, Electron, clean code and architectures.
-
+<p align = "center">
+I'm a dev in development, or a <strong>dev in dev</strong>, as I like to say.<br>
+Mostly interested in BackEnd. Currently learning Express, Electron, clean code and architectures.<br>
 Also I have dedicated some time and grown fond of TypeScript.
-
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfjade&layout=compact" alt="Top Langs" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
