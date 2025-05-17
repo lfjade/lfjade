@@ -9,3 +9,5 @@ Also I have dedicated some time and grown fond of TypeScript.
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfjade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,html,css,mysql,github,linux,express,fortran,vscode)
