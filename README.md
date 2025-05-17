@@ -5,9 +5,8 @@ Mostly interested in BackEnd. Currently learning Express, Electron, clean code a
 
 Also I have dedicated some time and grown fond of TypeScript.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfjade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,electron,html,css,mysql,github,linux,fortran,vscode)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfjade&layout=compact" alt="Top Langs" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,electron,html,css,mysql,github,linux,fortran,vscode&perline=4" alt="My Skills" />
+</p>
