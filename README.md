@@ -10,7 +10,7 @@ Also I have dedicated some time and grown fond of TypeScript.
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,electron,html,css,mysql,github,linux,fortran,vscode,java&perline=5" alt="My Skills" />
 </p>
 
-![WakaTime Metrics](https://raw.githubusercontent.com/lfjade/lfjade/main/metrics.svg)
+[![wakatime](https://wakatime.com/badge/user/lfjade.svg)](https://wakatime.com/@lfjade)
 <!--START_SECTION:waka-->
 
 ```txt
