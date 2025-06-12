@@ -15,11 +15,11 @@ Also I have dedicated some time and grown fond of TypeScript.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 hrs 9 mins    ██████████████████▓░░░░░░   74.68 %
-HTML         51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Text         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-CSS          27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JavaScript   5 hrs 55 mins   ███████████████████░░░░░░   75.95 %
+HTML         46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Text         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+CSS          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
