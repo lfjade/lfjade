@@ -25,6 +25,5 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
       
-    </td>
   </tr>
 </table>
