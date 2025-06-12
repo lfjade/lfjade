@@ -9,3 +9,6 @@ Also I have dedicated some time and grown fond of TypeScript.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,electron,html,css,mysql,github,linux,fortran,vscode,java&perline=5" alt="My Skills" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
