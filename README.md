@@ -11,3 +11,5 @@ Also I have dedicated some time and grown fond of TypeScript.
 </p>
 
 ![WakaTime Metrics](https://raw.githubusercontent.com/lfjade/lfjade/main/metrics.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
