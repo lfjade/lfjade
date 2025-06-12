@@ -11,6 +11,8 @@ Also I have dedicated some time and grown fond of TypeScript.
 </p>
 
 <div align = "center">
+  <tr>
+    <td>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,4 +23,8 @@ CSS          20 mins         █░░░░░░░░░░░░░░░░
 JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
-<!--END_SECTION:waka--></div>
+<!--END_SECTION:waka-->
+      
+    </td>
+  </tr>
+</div>
