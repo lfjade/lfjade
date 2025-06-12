@@ -12,4 +12,13 @@ Also I have dedicated some time and grown fond of TypeScript.
 
 ![WakaTime Metrics](https://raw.githubusercontent.com/lfjade/lfjade/main/metrics.svg)
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   5 hrs 55 mins   ███████████████████░░░░░░   75.95 %
+HTML         46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Text         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+CSS          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+```
+
 <!--END_SECTION:waka-->
