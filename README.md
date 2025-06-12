@@ -10,6 +10,7 @@ Also I have dedicated some time and grown fond of TypeScript.
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,electron,html,css,mysql,github,linux,fortran,vscode,java&perline=5" alt="My Skills" />
 </p>
 
+<p align = "center>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,3 +22,4 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</p>
